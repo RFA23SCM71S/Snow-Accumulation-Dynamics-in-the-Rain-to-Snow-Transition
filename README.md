@@ -19,3 +19,10 @@ This project aims to analyze a comprehensive hydrometeorological dataset spannin
 3. Ridge regression exhibited lower performance.
 4. Soil Temperatures (T_g) and Soil Moistures (s_m) appeared orthogonal to snow depth.
 Despite data gaps, our study provided valuable insights, expanding beyond initial plans to incorporate additional tasks as our understanding grew.
+
+![image](https://github.com/Raghukarn/Snow-Accumulation-Dynamics-in-the-Rain-to-Snow-Transition/assets/119719960/5eeabbae-9e9a-4155-9a79-1ee54a91e205)
+
+![image](https://github.com/Raghukarn/Snow-Accumulation-Dynamics-in-the-Rain-to-Snow-Transition/assets/119719960/6008db11-7975-455f-8a11-dc6356726030)
+
+### Distributions for features T_a, RH, e_a, T_d, w_s, and w_d from Weather Data
+
